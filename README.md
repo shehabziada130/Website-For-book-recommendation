@@ -2,6 +2,9 @@
 ## Overview
 This repository implements an end-to-end Book Recommendation System using Flask, HTML, and a collaborative filtering model. The system provides users with recommendations based on book ratings and popularity.
 
+## Dataset Link:
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 ## Project Structure
 ### Templates
 index.html
