@@ -1,4 +1,4 @@
-# Book Recommendation System
+# Website For book recommendation
 ## Overview
 This repository implements an end-to-end Book Recommendation System using Flask, HTML, and a collaborative filtering model. The system provides users with recommendations based on book ratings and popularity.
 
